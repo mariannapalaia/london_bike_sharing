@@ -24,7 +24,7 @@ The repository is organized as follows:
   
 - `london_bike_sharing.py`: Here, you'll find the code (PyCharm code editor) that documents the data exploration and data manipulation processes using Python's pandas library.
 
-- `tableau_visualizations`: This directory holds the Tableau workbook and dashboards used to create interactive data visualizations.
+- `London Bike Sharing`: This directory holds the Tableau workbook and dashboards used to create interactive data visualizations.
 
 
 ## Feedback and Contributions
